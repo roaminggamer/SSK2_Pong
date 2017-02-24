@@ -30,7 +30,7 @@ As you would imagine, many quickly become stuck and frustrated.
 
 It is my firm belief that all 2D game developers should learn a common set of base concepts *AND* should make a common set of 'fundamental' games.  
 
-Having a convition is great, but action is better.  So, I decided that as time permits, I will provide 'fundamental' game samples and training materials demonstrating key principles.  This is one of those samples/games.
+Having a conviction is great, but action is better.  So, I decided that as time permits, I will provide 'fundamental' game samples and training materials demonstrating key principles.  This is one of those samples/games.
 
 ##Not The Only Solution
 _I want to point out that this is one of many possible ways of implementing the example/game._  There is no single right way.  However, hope that this helps new developers by demonstrating some fundamental concepts and mechanics.
